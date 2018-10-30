@@ -5,4 +5,4 @@ NOTE: This was done back in 2005 as part of our final school assignment. This is
 
 I (Johan Runsten) authored the server program and Niklas Bivald authored the client (not hosted here, see below).
 
-If it's still up, you can visit http://mobilerobotics.sourceforge.net/ for pictures and more information.
+There is a "paper" in the repo explaining everything about the project and the code. Also, if it's still up, you can visit http://mobilerobotics.sourceforge.net/ for pictures and more information.
